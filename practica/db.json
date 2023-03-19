@@ -1,0 +1,49 @@
+{
+  "cars":[
+     {
+        "Brand":"Ferrari",
+        "Model":"488 GTB",
+        "Top_Speed":"205 mph",
+        "Horsepower":"661 hp",
+        "Acceleration":"0-60 mph in 3.0 seconds",
+        "Price":"$250,000",
+        "id": 1
+     },
+     {
+        "Brand":"Lamborghini",
+        "Model":"Aventador LP 700-4",
+        "Top_Speed":"217 mph",
+        "Horsepower":"700 hp",
+        "Acceleration":"0-60 mph in 2.9 seconds",
+        "Price":"$400,000",
+        "id": 2
+     },
+     {
+        "Brand":"Porsche",
+        "Model":"911 GT3",
+        "Top_Speed":"198 mph",
+        "Horsepower":"500 hp",
+        "Acceleration":"0-60 mph in 3.2 seconds",
+        "Price":"$150,000",
+        "id": 3
+     },
+     {
+        "Brand":"McLaren",
+        "Model":"720S",
+        "Top_Speed":"212 mph",
+        "Horsepower":"710 hp",
+        "Acceleration":"0-60 mph in 2.8 seconds",
+        "Price":"$300,000",
+        "id": 4
+     },
+     {
+        "Brand":"Aston Martin",
+        "Model":"DBS Superleggera",
+        "Top_Speed":"211 mph",
+        "Horsepower":"715 hp",
+        "Acceleration":"0-60 mph in 3.2 seconds",
+        "Price":"$325,000",
+        "id": 5
+     }
+  ]
+}
